@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 ###############################################################
 ## [Name]: file-descriptor-stdin.py -- a pwnable script purpose
 ## [Author]: Naivenom www.fwhibbit.es
