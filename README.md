@@ -24,7 +24,7 @@ Running the binary file to find out some issue or clue :S. When we open this fil
 fd@ubuntu:~$ ./fd
 pass argv[1] a number
 
-View of the C code fd.c:
+View of the vulnerable C code:
 ```c
 fd@ubuntu:~$ cat fd.c 
 #include <stdio.h>
