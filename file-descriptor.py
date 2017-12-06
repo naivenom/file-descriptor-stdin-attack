@@ -11,7 +11,7 @@
 
 ##------------------------------------------------------------
 ## [Usage]:
-## python3 file-descriptor.py --hexvalue 0x1234 --vulnapp ./fd
+## python3 file-descriptor.py --hexvalue 0x1234 --vulnapp fd
 ###############################################################
 
 import os
