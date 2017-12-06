@@ -10,7 +10,7 @@
 ## So if I put 4660, fd == 0 and this let us to write (stdin) LETMEWIN\n and saved in buffer array.
 
 ##------------------------------------------------------------
-## [Usage]: Example
+## [Usage]:
 ## python3 file-descriptor.py --hexvalue 0x1234 --vulnapp ./fd
 ###############################################################
 
