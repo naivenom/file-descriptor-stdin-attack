@@ -25,7 +25,7 @@ fd@ubuntu:~$ ./fd
 pass argv[1] a number
 
 View of the C code fd.c:
-```
+```c
 fd@ubuntu:~$ cat fd.c 
 #include <stdio.h>
 #include <stdlib.h>
