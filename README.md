@@ -3,9 +3,9 @@ In Unix and related computer operating systems, a file descriptor (FD, less freq
 
 # Example of use this Script in wargame pwnable.kr (fd)
 ```
-root@kali:~/Desktop/Scripts# python3 file-descriptor.py --hexvalue 0x1234 --vulnapp ./a.out
+root@kali:~/Desktop/Scripts# python3 file-descriptor.py --hexvalue 0x1234 --vulnapp fd
 [+]Hexvalue: 0x1234
-[+]Vulnapp: ./a.out
+[+]Vulnapp: fd
 LETMEWIN
 good job :)
 you get it the flag
