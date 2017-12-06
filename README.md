@@ -8,7 +8,7 @@ root@kali:~/Desktop/Scripts# python3 file-descriptor.py --hexvalue 0x1234 --vuln
 [+]Vulnapp: fd
 LETMEWIN
 good job :)
-you get it the flag
+mommy! I think I know what a file descriptor is!!
 ```
 
 # Example in wargame pwnable.kr (fd)
